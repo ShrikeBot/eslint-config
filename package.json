@@ -1,0 +1,34 @@
+{
+    "name": "@shrikebot/eslint-config",
+    "version": "1.0.0",
+    "description": "Shared ESLint flat config, Prettier, and EditorConfig for ShrikeBot projects",
+    "type": "module",
+    "main": "index.js",
+    "exports": {
+        ".": "./index.js",
+        "./prettier": "./.prettierrc.json",
+        "./editorconfig": "./.editorconfig"
+    },
+    "files": [
+        "index.js",
+        ".prettierrc.json",
+        ".editorconfig"
+    ],
+    "peerDependencies": {
+        "eslint": ">=9.0.0",
+        "typescript-eslint": ">=8.0.0"
+    },
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "prettier",
+        "editorconfig",
+        "typescript"
+    ],
+    "author": "ShrikeBot",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@gitlab.com:shrikebot/eslint-config.git"
+    }
+}
