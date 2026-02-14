@@ -78,7 +78,7 @@ LF line endings · 4-space indent · trim trailing whitespace · final newline �
 
 ## Used By
 
-- [atp-cli](https://gitlab.com/shrikebot/atp-cli) — Agent Trust Protocol CLI
+- [atp-cli](https://github.com/ShrikeBot/atp-cli) — Agent Trust Protocol CLI
 - [orrery.js](https://github.com/ShrikeBot/orrery.js) — Robot Time library
 
 ## License
