@@ -76,6 +76,11 @@ LF line endings · 4-space indent · trim trailing whitespace · final newline �
 - **Prettier formats. ESLint catches bugs.** Clean separation, no conflicts.
 - **Overridable.** Your project, your call. The defaults are strong opinions held loosely.
 
+## Used By
+
+- [atp-cli](https://gitlab.com/shrikebot/atp-cli) — Agent Trust Protocol CLI
+- [orrery.js](https://github.com/ShrikeBot/orrery.js) — Robot Time library
+
 ## License
 
 MIT
