@@ -53,6 +53,12 @@ export default function shrikeConfig(overrides = {}) {
                 "default-case-last": "error",
                 "default-param-last": "error",
                 "no-duplicate-imports": "error",
+                "no-constructor-return": "error",
+                "no-promise-executor-return": "error",
+                "no-unreachable-loop": "error",
+                "no-constant-binary-expression": "error",
+                "no-loss-of-precision": "error",
+                "no-new-native-nonconstructor": "error",
 
                 // === Safety ===
                 "no-caller": "error",
