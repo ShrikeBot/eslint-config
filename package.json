@@ -12,7 +12,8 @@
     "files": [
         "index.js",
         ".prettierrc.json",
-        ".editorconfig"
+        ".editorconfig",
+        "LICENSE"
     ],
     "peerDependencies": {
         "eslint": ">=9.0.0",
@@ -29,6 +30,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git@gitlab.com:shrikebot/eslint-config.git"
+        "url": "https://github.com/ShrikeBot/eslint-config.git"
+    },
+    "homepage": "https://github.com/ShrikeBot/eslint-config",
+    "bugs": {
+        "url": "https://github.com/ShrikeBot/eslint-config/issues"
     }
 }
