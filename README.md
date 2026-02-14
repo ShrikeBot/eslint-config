@@ -64,7 +64,7 @@ Formatting (indent, quotes, semicolons, spacing) is **not** in ESLint. That's Pr
 | Quotes | Double |
 | Semicolons | Always |
 | Trailing commas | All |
-| Print width | 100 |
+| Print width | 120 |
 
 ### EditorConfig
 
