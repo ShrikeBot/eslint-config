@@ -49,7 +49,7 @@ export default shrikeConfig({
 | Category | Examples | Why |
 |----------|----------|-----|
 | **TypeScript** | `no-shadow`, `no-unused-vars`, `consistent-type-imports`, `no-use-before-define` | TS-aware versions of base rules |
-| **Correctness** | `eqeqeq`, `curly`, `prefer-const`, `array-callback-return`, `no-self-compare` | Catches real bugs |
+| **Correctness** | `eqeqeq`, `curly`, `prefer-const`, `array-callback-return`, `no-self-compare`, `no-constant-binary-expression`, `no-promise-executor-return` | Catches real bugs |
 | **Security** | `no-eval`, `no-implied-eval`, `no-new-func`, `no-extend-native` | Blocks dangerous patterns |
 | **Dead code** | `no-useless-return`, `no-useless-call`, `no-extra-bind`, `no-lone-blocks` | Keeps things clean |
 | **Clarity** | `no-nested-ternary`, `no-lonely-if`, `yoda`, `one-var`, `no-eq-null` | Code should be readable |
